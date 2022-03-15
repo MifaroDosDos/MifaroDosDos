@@ -1,11 +1,11 @@
 <html>
 
-<h1>[👋 | Hola! | 👋] </h1>
+<h1>👋 | ¡Hola!</h1>
 <p>Soy Mifaro</p>
 <hr>
-<h2>[🌐 | Wtf. ¿Links? | 🌐]</h2>
+<h2>🌐 | Wtf, ¿Links?</h2>
 <p>No, no hay</p>
 <hr>
-<footer>Gracias por leer. </footer>
+<footer>Gracias por tomarte una menor parte de tu vida para leer algo que quizás olvides en menos de 10 minutos, y también por seguir leyendo esto, preguntándote; ¿Porqué sigo leyendo una biografía/proyecto de un usuario que no me interesa en lo más mínimo?. Una pregunta lo cual ya sabemos quién tiene la respuesta.<br><br>No, en serio, gracias por leer. 🤓</footer>
 
 </html>

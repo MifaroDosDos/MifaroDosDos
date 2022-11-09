@@ -1,8 +1,25 @@
-<html>
+<h1 align="center">¡Buenas tardes, soy Mifaro! <img src="https://user-images.githubusercontent.com/90436522/200918380-dde3d3ae-4ac0-4e2b-acee-114565757b2d.png" heigth="70px" width="70px" bottom="40"><br></h1>
+<h3 align="center">Siendo sincero no sé que podría agregar aquí, en resumen, un joven de 15 años intentando cumplir sus metas desde pequeño. Je je.</h3>
 
-<h1>👋 | ¡Hola!</h1>
-<p>Soy Mifaro, aprendo lo que me gusta.</p>
-<hr>
-<footer>Gracias por tomarte una menor parte de tu vida para leer algo que quizás olvides en menos de 10 minutos, y también por seguir leyendo esto, preguntándote; ¿Porqué sigo leyendo una biografía/proyecto de un usuario que no me interesa en lo más mínimo?. Una pregunta lo cual ya sabemos quién tiene la respuesta.<br><br>No, en serio, gracias por leer. 🤓</footer>
 
-</html>
+---
+# Sobre mí
+* 👀 Iniciando un proyecto.
+* 📅 Leyendo código hace más de 2 años.
+* 🧶 Cumpliendo metas.
+
+Aprendiendo más cada día sobre:
+ `HTML`
+ `CSS`
+ `C++`
+ 
+ Proyectos pasados:
+ `Bot de Discord`
+ `Página web`
+ `Apps`
+ `Diseños`
+ 
+ ---
+ ```
+En este mundo desde el 22 de Octubre 
+```
